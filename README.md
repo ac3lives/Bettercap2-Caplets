@@ -1,4 +1,4 @@
-<h1>Bettercap SMB Proxy Caplets<h1>
+<h1>Bettercap SMB Proxy Caplets</h1>
 <br>
 Usage:
 <br>
